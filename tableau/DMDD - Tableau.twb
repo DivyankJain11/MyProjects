@@ -1925,8 +1925,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='41' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='40' param='vert' type='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='39' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='38' param='vert' type='layout-flow' w='98400' x='800' y='1000'>
                 <zone fixed-size='280' h='98000' id='9' is-fixed='true' name='Ratings &amp; Reviews' w='41200' x='800' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -2022,8 +2022,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='950' minheight='950' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='30' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='29' param='vert' type='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='28' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='27' param='vert' type='layout-flow' w='98400' x='800' y='1000'>
                 <zone fixed-size='280' h='98000' id='3' is-fixed='true' name='Country' w='41200' x='800' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
